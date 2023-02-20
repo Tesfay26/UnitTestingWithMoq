@@ -1,0 +1,19 @@
+Clean coding practices
+------------------------
+1, small functions/methods(10 lines of code or less)
+2, proper naming
+3, single responsibility
+Angular Unit testing 
+--------------------
+describe('Method Name', () =>{
+it('expected out put description', () =>{
+  const result = MethodName(pass params);
+  expect(result).toContain('something');
+});
+});
+
+key words
+---------
+* describe -
+* it -
+* expect -

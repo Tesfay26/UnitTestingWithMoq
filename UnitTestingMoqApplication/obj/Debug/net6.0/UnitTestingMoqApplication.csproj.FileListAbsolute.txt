@@ -1,0 +1,12 @@
+F:\projects\UnitTestingWithMoq\UnitTestingMoqApplication\bin\Debug\net6.0\UnitTestingMoqApplication.deps.json
+F:\projects\UnitTestingWithMoq\UnitTestingMoqApplication\bin\Debug\net6.0\UnitTestingMoqApplication.dll
+F:\projects\UnitTestingWithMoq\UnitTestingMoqApplication\bin\Debug\net6.0\UnitTestingMoqApplication.pdb
+F:\projects\UnitTestingWithMoq\UnitTestingMoqApplication\obj\Debug\net6.0\UnitTestingMoqApplication.csproj.AssemblyReference.cache
+F:\projects\UnitTestingWithMoq\UnitTestingMoqApplication\obj\Debug\net6.0\UnitTestingMoqApplication.GeneratedMSBuildEditorConfig.editorconfig
+F:\projects\UnitTestingWithMoq\UnitTestingMoqApplication\obj\Debug\net6.0\UnitTestingMoqApplication.AssemblyInfoInputs.cache
+F:\projects\UnitTestingWithMoq\UnitTestingMoqApplication\obj\Debug\net6.0\UnitTestingMoqApplication.AssemblyInfo.cs
+F:\projects\UnitTestingWithMoq\UnitTestingMoqApplication\obj\Debug\net6.0\UnitTestingMoqApplication.csproj.CoreCompileInputs.cache
+F:\projects\UnitTestingWithMoq\UnitTestingMoqApplication\obj\Debug\net6.0\UnitTestingMoqApplication.dll
+F:\projects\UnitTestingWithMoq\UnitTestingMoqApplication\obj\Debug\net6.0\refint\UnitTestingMoqApplication.dll
+F:\projects\UnitTestingWithMoq\UnitTestingMoqApplication\obj\Debug\net6.0\UnitTestingMoqApplication.pdb
+F:\projects\UnitTestingWithMoq\UnitTestingMoqApplication\obj\Debug\net6.0\ref\UnitTestingMoqApplication.dll

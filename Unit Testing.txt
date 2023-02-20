@@ -1,0 +1,29 @@
+# CQRS approach brings several significant benefits:
+CQRS approach brings several significant benefits:
+1, Single responsibility — Commands and queries in your application’s code can only have one task: to retrieve or change data.
+2, Decoupling — A command or query is completely decoupled from its handler. 
+3, Scalability — The CQRS pattern is flexible in terms of how you organize your data storage. You can use separate read/write databases for commands and queries with messaging or replication between databases for synchronization. 
+4, Testability — Design simplicity makes your command or query handlers easy to test. You don’t need to write tests for handlers that don’t have cross-service, cross-module, or any other cross-calls.
+
+#Business logic, which contains a set of specific repositories and services 
+#Infrastructure, which has a common logger and validator implementation and a set of commands, queries, and validators
+#Database interactions that rely on entity classes, DBContext, and generic repositories 
+#A set of controllers in the form of an API
+
+
+# xUnit provides a set of attributes or decorators for testing methods and using those we can write testing code to test components and units. Available attributes are,
+
+1, [Fact]: If we want to method to be part of unit testing and execute it during the test run it should be decorated with this attribute.
+2, [Theory]: If we want to send some parameters to the test method then we need to use this attribute. It will execute the method and also provides parameters to the test data.
+3, [InlineData]:  Used along with [Theory] attribute. This attribute is a way to provide parameters to the test method.
+
+#Any *method* that we want to be part of test runner must be *public* and the xUnit.net attribute should be used on the method.
+# Test methods naming 
+Ex: MethodName_ExpectedBehavior_StateUnderTest
+ isVoter_False_AgetLessThan18
+
+#Each test method normally consists of 3 logical parts,
+
+1, Arrange - prepare the data which will be required for testing. For example, data used for testing scenarios along with the expected result.
+2, Act - call the method which is being tested making use of the data prepared in the Arrange. Here it will return us the actual result.
+3, Assert - Compare expected results with actual results to decide if the test passed or failed. 

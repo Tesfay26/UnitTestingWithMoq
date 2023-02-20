@@ -1,0 +1,15 @@
+F:\projects\UnitTestingWithMoq\UnitTestingMoqInfrastracture\bin\Debug\net6.0\UnitTestingMoqInfrastracture.deps.json
+F:\projects\UnitTestingWithMoq\UnitTestingMoqInfrastracture\bin\Debug\net6.0\UnitTestingMoqInfrastracture.dll
+F:\projects\UnitTestingWithMoq\UnitTestingMoqInfrastracture\bin\Debug\net6.0\UnitTestingMoqInfrastracture.pdb
+F:\projects\UnitTestingWithMoq\UnitTestingMoqInfrastracture\bin\Debug\net6.0\UnitTestingMoqDomain.dll
+F:\projects\UnitTestingWithMoq\UnitTestingMoqInfrastracture\bin\Debug\net6.0\UnitTestingMoqDomain.pdb
+F:\projects\UnitTestingWithMoq\UnitTestingMoqInfrastracture\obj\Debug\net6.0\UnitTestingMoqInfrastracture.csproj.AssemblyReference.cache
+F:\projects\UnitTestingWithMoq\UnitTestingMoqInfrastracture\obj\Debug\net6.0\UnitTestingMoqInfrastracture.GeneratedMSBuildEditorConfig.editorconfig
+F:\projects\UnitTestingWithMoq\UnitTestingMoqInfrastracture\obj\Debug\net6.0\UnitTestingMoqInfrastracture.AssemblyInfoInputs.cache
+F:\projects\UnitTestingWithMoq\UnitTestingMoqInfrastracture\obj\Debug\net6.0\UnitTestingMoqInfrastracture.AssemblyInfo.cs
+F:\projects\UnitTestingWithMoq\UnitTestingMoqInfrastracture\obj\Debug\net6.0\UnitTestingMoqInfrastracture.csproj.CoreCompileInputs.cache
+F:\projects\UnitTestingWithMoq\UnitTestingMoqInfrastracture\obj\Debug\net6.0\UnitTestingMoqInfrastracture.csproj.CopyComplete
+F:\projects\UnitTestingWithMoq\UnitTestingMoqInfrastracture\obj\Debug\net6.0\UnitTestingMoqInfrastracture.dll
+F:\projects\UnitTestingWithMoq\UnitTestingMoqInfrastracture\obj\Debug\net6.0\refint\UnitTestingMoqInfrastracture.dll
+F:\projects\UnitTestingWithMoq\UnitTestingMoqInfrastracture\obj\Debug\net6.0\UnitTestingMoqInfrastracture.pdb
+F:\projects\UnitTestingWithMoq\UnitTestingMoqInfrastracture\obj\Debug\net6.0\ref\UnitTestingMoqInfrastracture.dll
